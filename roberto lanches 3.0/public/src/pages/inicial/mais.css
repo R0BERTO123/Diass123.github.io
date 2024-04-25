@@ -1,0 +1,45 @@
+.tudo{display: flex;
+    gap: 20px;
+   justify-content: start;
+   flex-wrap: wrap;
+    
+        
+}
+
+.tudo a{display: flex;
+justify-content: center;
+align-items: center;
+
+
+}
+
+  .cartao{display: flex;
+  flex-direction: column;
+background-color: antiquewhite;
+border-radius: 50px;
+}
+
+*{margin: 20px;}
+body{background-color: brown;}
+
+
+.carrinho{display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+margin: auto; 
+border: 1px solid;
+background-color: white;
+border-radius: 50px;
+}
+
+
+
+a{color: white;
+  
+}
+
+img{border-radius: 100px;}
+
+
+

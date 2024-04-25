@@ -1,0 +1,59 @@
+.super{border: 1px solid;
+margin: 100px;
+background-color: white;
+border-radius: 50px;}
+
+
+.coisas{display: flex;
+justify-content: space-around;
+}
+
+.coisinha{display: flex;
+    border: 1px solid;
+    border-radius: 50px;
+background-color: antiquewhite;}
+
+    .tudo{display: flex;
+        
+  }
+
+  .tudo a{display: flex;
+justify-content: center;
+align-items: center;
+flex-wrap: wrap;
+
+
+}
+
+    .cartao{display: flex;
+    flex-direction: column;
+background-color: antiquewhite;
+border-radius: 50px;}
+
+    .nota{display: flex;
+    justify-content: space-around;}
+
+*{margin: 20px;}
+
+body{background-color: brown;}
+
+.topo{padding-bottom: 50px;
+display: flex;
+justify-content: space-between;
+background-color: brown;
+border-radius: 50px;
+}
+
+img{border-radius: 100px;}
+
+
+h1{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+
+
+.zap{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+a{color: black;}
